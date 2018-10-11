@@ -1,5 +1,0 @@
-﻿  pch.cpp
-  US Custom to Int Standard Console App.cpp
-c:\users\user\source\repos\us custom to int standard console app\us custom to int standard console app\us custom to int standard console app.cpp(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\user\source\repos\us custom to int standard console app\us custom to int standard console app\us custom to int standard console app.cpp(107): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  US Custom to Int Standard Console App.vcxproj -> C:\Users\User\source\repos\US Custom to Int Standard Console App\Debug\US Custom to Int Standard Console App.exe
