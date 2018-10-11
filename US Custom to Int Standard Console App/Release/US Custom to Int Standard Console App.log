@@ -1,0 +1,9 @@
+﻿  US Custom to Int Standard Console App.cpp
+c:\users\user\source\repos\us custom to int standard console app\us custom to int standard console app\us custom to int standard console app.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\source\repos\us custom to int standard console app\us custom to int standard console app\us custom to int standard console app.cpp(134): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 158 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  US Custom to Int Standard Console App.vcxproj -> C:\Users\User\source\repos\US Custom to Int Standard Console App\Release\US Custom to Int Standard Console App.exe
